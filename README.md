@@ -13,7 +13,7 @@
 - 💬 Ask me about **Java, Linux**
 
 - 📫 How to reach me **phelliperodrigues.dev@gmail.com**
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=phelliperodrigues&show_icons=true" alt="phelliperodrigues" /> </p>
 <p align="center">
 <a href="https://linkedin.com/in/phelliperodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="phelliperodrigues" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/phelliperodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="phelliperodrigues" height="20" width="20" /></a>
