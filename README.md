@@ -6,11 +6,9 @@
 
 - 👯 I’m looking to collaborate on **Pet Adoption App**
 
-- 🤔 I’m looking for help with [My Blog](blog.phelliperodrigued.dev)
+- 🤔 I’m looking for help with [My Blog](httpś://blog.phelliperodrigued.dev)
 
-- 👨‍💻 All of my projects are available at [phelliperodrigues.dev](phelliperodrigues.dev)
-
-- 📝 I regulary write articles on [blog.phelliperodrigues.dev](blog.phelliperodrigues.dev)
+- 👨‍💻 All of my projects are available at [phelliperodrigues.dev](httpś://phelliperodrigues.dev)
 
 - 💬 Ask me about **Java, Linux**
 
