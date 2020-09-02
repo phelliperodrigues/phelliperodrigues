@@ -6,13 +6,12 @@
 
 - 👯 I’m looking to collaborate on **Pet Adoption App**
 
-- 🤔 I’m looking for help with [My Blog](blog.phelliperodrigued.dev)
+- 👨‍💻 All of my projects are available at [phelliperodrigues.dev](https://www.phelliperodrigues.dev)
 
-- 👨‍💻 All of my projects are available at [phelliperodrigues.dev](httpś://www.phelliperodrigues.dev)
-
-- 💬 Ask me about **Java, Linux**
+- 💬 Ask me about **Java, Linux, Spring Boot, Backend**
 
 - 📫 How to reach me **phelliperodrigues.dev@gmail.com**
+
 <p> <img src="https://github-readme-stats.vercel.app/api?username=phelliperodrigues&show_icons=true" alt="phelliperodrigues" /> </p>
 <p align="center">
 <a href="https://linkedin.com/in/phelliperodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="phelliperodrigues" height="20" width="20" /></a>
