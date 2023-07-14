@@ -1,9 +1,12 @@
 # Olá! Eu sou o Phellipe Rodrigues <img width="30" src="https://emojis.slackmojis.com/emojis/images/1494533524/2240/programmer.gif?1494533524" alt="Java emoji" />
 
- <div>
+ <div align="center">
   <a href="https://github.com/phelliperodrigues">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phelliperodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phelliperodrigues&layout=compact&langs_count=7&theme=dracula"/>
+
+   
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=dracula&hide_border=false" alt="patriciasoaresrodrigues" /></p>
 </div>
 
 
