@@ -41,6 +41,8 @@
  
 </div>
 
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=7m3mvrbm1hk73dgvrs8azihtv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Gift's LangStat" />
+
 
 <div align="right">
   <a href="https://badges.pufler.dev">
