@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou o Phellipe Rodrigues <img width="30" src="https://emojis.slackmojis.com/emojis/images/1494533524/2240/programmer.gif?1494533524" alt="Java emoji" /></h1>
+<h1 align="center"> Hi! I'm Phellipe Rodrigues <img width="30" src="https://emojis.slackmojis.com/emojis/images/1494533524/2240/programmer.gif?1494533524" alt="Java emoji" /></h1>
 
 <div align="center"> 
   <a href="https://phelliperodrigues.dev" target="_blank"><img src="https://img.shields.io/badge/-website-%230077B5?style=for-the-badge&logo=aiohttp&logoColor=white" target="_blank"></a> 
