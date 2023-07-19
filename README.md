@@ -17,7 +17,7 @@
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phelliperodrigues&layout=compact&langs_count=7&theme=material-palenight"/>
 
    
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=material-palenight&hide_border=false" alt="patriciasoaresrodrigues" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=material-palenight&hide_border=false" alt="phelliperodrigues" /></p>
 </div>
 
 ---
