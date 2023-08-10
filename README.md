@@ -100,12 +100,6 @@
 
 ---
 
-<div align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://komarev.com/ghpvc/?username=phelliperodrigues" alt="Visitors badge" />
-   </a>
-</div>
-
  <div align="center">
 
   ## ⚡ Wakatime ⚡
@@ -113,4 +107,15 @@
   <a href="https://github.com/phelliperodrigues">
   <img height="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=phelliperodrigues&show_icons=true&theme=material-palenight&include_all_commits=true&layout=compact"/>
 
+</div>
+
+---
+<div align="right">
+
+  [![wakatime](https://wakatime.com/badge/user/0b6c2d8d-369e-4d0e-9f9a-ab66caed934f.svg)](https://wakatime.com/@0b6c2d8d-369e-4d0e-9f9a-ab66caed934f)
+
+  <a href="https://badges.pufler.dev">
+      <img src="https://komarev.com/ghpvc/?username=phelliperodrigues" alt="Visitors badge" />
+   </a>
+  
 </div>
