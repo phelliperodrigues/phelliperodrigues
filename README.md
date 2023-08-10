@@ -12,12 +12,12 @@
 
   ## ⚡ Stats ⚡
   
-  <a href="https://github.com/phelliperodrigues">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phelliperodrigues&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phelliperodrigues&layout=pie&langs_count=10&theme=material-palenight"/>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelliperodrigues&layout=donut&theme=material-palenight"/></p>
 
-   
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=material-palenight&hide_border=false" alt="phelliperodrigues" /></p>
+  <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=phelliperodrigues&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=material-palenight&hide_border=false" alt="phelliperodrigues" />
+  
+
 </div>
 
 ---
