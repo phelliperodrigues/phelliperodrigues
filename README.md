@@ -14,8 +14,8 @@
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelliperodrigues&layout=donut&theme=material-palenight"/></p>
 
-  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phelliperodrigues&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=material-palenight&hide_border=false" alt="phelliperodrigues" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phelliperodrigues&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=phelliperodrigues&theme=material-palenight&hide_border=false" alt="phelliperodrigues" />
   
 
 </div>
